@@ -182,6 +182,6 @@ Your branch is up to date with 'origin/main'.
 
 hp@DESKTOP-US68L7F MINGW64 ~/Desktop/greenwood-library-website/greenwood-library-website (main)
 
-This marks the end to the project.
+This marks the end to the project..
 
 
